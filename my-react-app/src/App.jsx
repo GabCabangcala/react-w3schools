@@ -1,5 +1,5 @@
 import React from 'react';
-import DOSTLogin from './main';
+import DOSTLogin from './DOSTLogin';
 
 function App() {
   return <DOSTLogin />;
